@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AspNetCore.GraphQl.Web.Api/.vs
+/.vs
+/AspNetCore.GraphQl.Web.Api/bin/Debug/net8.0
+/AspNetCore.GraphQl.Web.Api/obj
